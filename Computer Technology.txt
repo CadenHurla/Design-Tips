@@ -1,0 +1,19 @@
+<html>
+<head>
+<title><h1>
+Computer Technology
+</title></h1>
+<hr>
+</hr>
+</head>
+<body bgcolor="red">
+<center><img src="Carrers/images/Alarm-Clock.gif"></center>
+<br />
+
+<center><p>Your alarm goes off for work, and you have two choices to make.</p></center>
+<br />
+<br />
+<center><a href="Snooze.html">Hit snooze</a>         
+......... <a href="wake up.html">Get ready</a>
+
+</body>
